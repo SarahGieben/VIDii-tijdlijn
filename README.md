@@ -27,7 +27,7 @@ Blauw
 
   ### De eerste versie/schets:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
-  <img src="readme-images/Pacman-schets.HEIC" width="375px" alt="Pacman schets">
+  <img src="readme-images/Pacman-schets.jpg" width="375px" alt="Pacman schets">
 
 
   ### Je ambitie: 
