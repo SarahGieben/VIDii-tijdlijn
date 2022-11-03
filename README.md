@@ -12,10 +12,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 ### Ontwerper:
-Sanne 't Hooft (vervangen door jouw naam)
+Sarah Gieben
 
 #### Je startniveau:
-Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 
 
@@ -27,6 +27,7 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
   ### De eerste versie/schets:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/Pacman-schets.HEIC" width="375px" alt="Pacman schets">
 
 
   ### Je ambitie: 
@@ -44,13 +45,15 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>
+    Mijn bevindingen + wijzigingen (minimaal 5)
+  </summary>
 
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Omdat mijn ontwerp nog teveel op een servetje leek en mijn andere idee iets zelf moest verzinnen heb ik een nieuw idee geschetst
 
 
 
