@@ -27,8 +27,8 @@ Blauw
 
   ### De eerste versie/schets:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
-  <img src="readme-images/Pacman-schets.jpg" width="375px" alt="Pacman schets">
-
+  <img src="readme-images/pacman-schets.jpg" width="375px" alt="Pacman schets">
+  <img src="readme-images/spiderman-schets.jpg" width="375px" alt="Spiderman schets">
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
