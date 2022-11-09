@@ -26,9 +26,9 @@ Blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/pacman-schets.jpg" width="375px" alt="Pacman schets">
-  <img src="readme-images/spiderman-schets.jpg" width="375px" alt="Spiderman schets">
-  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Pacman schets">
+  <img src="readme-images/pacman-schets.jpeg" width="375px" alt="Pacman schets">
+  <img src="readme-images/spiderman-schets.jpeg" width="375px" alt="Spiderman schets">
+  <img src="readme-images/Aardappelhoofd-schets.jpeg" width="375px" alt="Aardappelhoofd schets">
 
   ### Mijn idee en kenmerken van mijn karakter:
   Mijn idee voor deze opdracht is uiteindelijk meneer en mevrouw aardappelhoofd geworden. Je kan dan interacteren met het karakter door zijn ledenmate, ogen, accessoires er af te halen, er weer op te zetten. Zo kan je dingen mixen, niet gebruiken
@@ -54,7 +54,7 @@ Blauw
   </summary>
 
   ### Bevinding 1:
-  <img src="readme-images/pacman-schets.jpg" width="375px" alt="Pacman schets">
+  <img src="readme-images/pacman-schets.jpeg" width="375px" alt="Pacman schets">
   Als eerste mijn Pacman schets. De schets was nog teveel een 'schets', net zoals het idee. Het leek me een moeilijk idee om te realiseren. Wel vond ik dat de iconische pacman geluidjes door de jaren heen erg leuk hadden geweest.
 
   #### oplossing:
@@ -62,7 +62,7 @@ Blauw
 
 
   ### Bevinding 2:
-  <img src="readme-images/spiderman-schets.jpg" width="375px" alt="Spiderman schets">
+  <img src="readme-images/spiderman-schets.jpeg" width="375px" alt="Spiderman schets">
   Ook mijn spiderman schets was teveel een 'schets'. Het idee vond ik een goed idee omdat het echt iets karakteristieks is van spiderman. Alleen ik had het idee niet zelf bedacht.
 
   #### oplossing:
@@ -70,11 +70,11 @@ Blauw
 
 
   ### Bevinding 3:
-  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  <img src="readme-images/Aardappelhoofd-schets.jpeg" width="375px" alt="Aardappelhoofd schets">
   Mijn oplossing was dus een nieuw idee verzinnen en daarvoor ook betere schetsen maken. Dit is uiteindelijk mijn nieuwe idee geworden die ik ga maken. Het was een goed idee. Ik moest wel nog nadenken over de tijdlijn en nog wat meer interactie dingen toevoegen.
 
   #### oplossing:
-  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  <img src="readme-images/Aardappelhoofd-schets.jpeg" width="375px" alt="Aardappelhoofd schets">
   Wat meer interactie dingen zoals bijvoorbeeld wanneer meneer hakken aan krijgt van meevrouw dan wordt hij boos, omdat hij niet op hakken kan lopen.
 
 
@@ -82,7 +82,7 @@ Blauw
   Nadenken over welke html elementen ik wellicht zou moeten gaan gebruiken in dit project.
   
   #### oplossing:
-  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  <img src="readme-images/Aardappelhoofd-schets.jpeg" width="375px" alt="Aardappelhoofd schets">
   op deze afbeelding kan je nog zien dat ik dat met podlood erbij heb gezet.
 
 
@@ -208,13 +208,10 @@ Blauw
 
   Wat wel in de laatste dagen van de afronding van het project kwam was de kleine tijdlijn die ik voorheen nog niet helemaal had uitgedacht. Bij mijn schetsen en idee wist ik nog niet zeker hoe ik de tijdlijn in mijn project zou moeten werven. Toen ik eenmaal Mr. Aardappelhoofd op mijn scherm had staan, kreeg ik daar een wat beter idee over. Ik ben blij dat ik dat idee nog op het laatste moment erin heb kunnen krijgen met behulp van de docent en klasgenoten.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
 
   ### Dit was lastig/Is niet gelukt:
   Wat vond ik niet lastig... Het moeilijkste was voor mij zeker het javascripten. Hier heb ik ook het minste ervaring in. Maar dat had ik ook wel verwacht. Vorig jaar vond ik dat ook heel lastig met een vak waar ik ook voor heb gejavascript. Dat was dus iets wat ik nog lastig vond maar wat ik uiteindelijk nog wel wat van heb gedaan. Helaas is mijn project niet helemaal zo gegaan zoals ik het helemaal wilde. Ik ben in tijdsnood gekomen omdat ik een aantal dingen naarmate het project zich vorderde opnieuw heb moeten doen. Hierdoor heb ik aan het einde niet veel meer tijd gehad voor semantische dingen zowel code als uitstraling van de pagina en extra's. Dit vind ik erg jammer en had dat graag nog beter willen doen als ik iets meer tijd had gehad.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
