@@ -7,6 +7,8 @@
 
 :root{
   --aardappel-width: 35vmin;
+  --textbubbel-color: beige;
+  --half-left: 50%;
 }
 
 @font-face {
@@ -68,7 +70,7 @@ article:first-of-type section button:hover, article:first-of-type section button
 /* Hoed van meneer */
 section:first-of-type button:first-of-type {
 	position:absolute;
-	left:50%;
+	left: var(--half-left);
 	top:17%;
 	aspect-ratio:2/1;
 	transform:translatex(-30vw) translateY(5vh) rotate(30deg);
@@ -84,7 +86,7 @@ section:first-of-type button:first-of-type.op {
 /* Ogen van meneer */
 section:first-of-type button:nth-of-type(2) {
 	position:absolute;
-  left: 50%;
+  left: var(--half-left);
 	top:35%;
 	aspect-ratio:2/1;
 	transform:translatex(-40vw) translateY(1vh) rotate(-10deg);
@@ -99,7 +101,7 @@ section button:nth-of-type(2).op {
 /* Snor van meneer */
 section:first-of-type button:nth-of-type(3) {
 	position:absolute;
-  left: 50%;
+  left: var(--half-left);
 	top:43%;
 	aspect-ratio:2/1;
 	transform:translatex(-25vw) translateY(7vh) rotate(10deg);
@@ -114,7 +116,7 @@ section button:nth-of-type(3).op {
 /* Armen van meneer */
 section:first-of-type button:nth-of-type(4){
 	position:absolute;
-  left: 50%;
+  left: var(--half-left);
 	top:40%;
 	aspect-ratio:2/1;
 	transform:translatex(-40vw) translateY(17vh) rotate(5deg);
@@ -129,7 +131,7 @@ section button:nth-of-type(4).op {
 /* Schoenen van meneer */
 section:first-of-type button:nth-of-type(5) {
 	position:absolute;
-	left: 50%;
+	left: var(--half-left);
 	top:72%;
 	aspect-ratio:2/1;
 	transform:translatex(-35vw) translateY(7vh) rotate(-5deg);
@@ -150,7 +152,7 @@ section button:nth-of-type(5).op {
 
 article:nth-of-type(2) section{
 	position: relative;
-	background: beige;
+	background-color: var(--textbubbel-color);
 	border-radius: .4em;
   display: none;
   width: 25em;
@@ -166,7 +168,7 @@ article:nth-of-type(2) section::after {
 	width: 0;
 	height: 0;
 	border: 0.844em solid transparent;
-	border-right-color: beige;
+	border-right-color: var(--textbubbel-color);
 	border-left: 0;
 	border-bottom: 0;
 	margin-top: -0.422em;

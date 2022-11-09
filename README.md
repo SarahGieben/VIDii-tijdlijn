@@ -61,20 +61,36 @@ Blauw
   Een nieuw idee verzinnen.
 
 
-
   ### Bevinding 2:
   <img src="readme-images/spiderman-schets.jpg" width="375px" alt="Spiderman schets">
   Ook mijn spiderman schets was teveel een 'schets'. Het idee vond ik een goed idee omdat het echt iets karakteristieks is van spiderman. Alleen ik had het idee niet zelf bedacht.
 
   #### oplossing:
-  Mijn oplossing was dus een nieuw idee verzinnen en daarvoor ook betere schetsen maken. Dit is uiteindelijk mijn nieuwe idee geworden die ik ga maken:
-
-  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Pacman schets">
+  Een nieuw idee verzinnen.
 
 
   ### Bevinding 3:
-  ...
+  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  Mijn oplossing was dus een nieuw idee verzinnen en daarvoor ook betere schetsen maken. Dit is uiteindelijk mijn nieuwe idee geworden die ik ga maken. Het was een goed idee. Ik moest wel nog nadenken over de tijdlijn en nog wat meer interactie dingen toevoegen.
 
+  #### oplossing:
+  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  Wat meer interactie dingen zoals bijvoorbeeld wanneer meneer hakken aan krijgt van meevrouw dan wordt hij boos, omdat hij niet op hakken kan lopen.
+
+
+  ### Bevinding 4:
+  Nadenken over welke html elementen ik wellicht zou moeten gaan gebruiken in dit project.
+  
+  #### oplossing:
+  <img src="readme-images/Aardappelhoofd-schets.jpg" width="375px" alt="Aardappelhoofd schets">
+  op deze afbeelding kan je nog zien dat ik dat met podlood erbij heb gezet.
+
+
+  ### Bevinding 5:
+  Research doen naar meneer aardappelhoofd.
+
+  #### oplossing:
+  Voor mijn research heb ik oude commercials bekeken van het speelgoed. Ik heb ook gekeken naar de verschillende varianten door de jaren heen en natuurlijk naar Mr. en Mrs. Potatohead in de film Toystory.
 </details>
 
 
@@ -86,23 +102,38 @@ Blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Meer responsivness in mijn site. De site schaalde niet goed mee
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  <img src="readme-images/Responsiveness1.jpeg" width="375px" alt="Responsiveness kleine window">
+  <img src="readme-images/Responsiveness2.jpeg" width="375px" alt="Responsiveness grote window">
+  Ik heb samen met Sanne mijn site kunnen aanpassen dat de buttons mee gaan met de windowsize. Ook de aardappel schaalt beter mee dan voorheen.
 
-
-
+ 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik moest nog fonts toevoegen op mijn site.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  <img src="readme-images/Fonts.jpeg" width="375px" alt="Responsiveness kleine window">
+  Dit heb ik snel en makkelijk kunnen doen. Ik heb het font van Mr. Potatohead opgezocht en gedownload. Die heb ik uiteindelijk in mijn code gezet.
 
   ### Bevinding 3:
-  ...
+  Ik moest nog aan mijn interactieve elementen werken om die werkend te maken.
+
+  #### oplossing:
+  Dit is uiteindelijk gelukt met behulp van klasgenoten, docent en studentassistent.
+
+  ### Bevinding 4:
+  Ik moest nog wat meer structuur brengen in mijn css.
+
+  #### oplossing:
+  Dit heb ik gedaan door dingen erbij te commenten.
+
+  ### Bevinding 5:
+  Bij mijn javascript kon ik ook nog wat meer comments bij zetten.
+
+  #### oplossing:
+  Dit heb ik ook gedaan door dingen bij de javascript te commenten.
 
 </details>
 
@@ -118,47 +149,44 @@ Blauw
   Als ik nog tijd heb de afbeeldingen overtrekken met illustrator.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  De afbeeldingen zijn helaas nog een beetje pixelachtig. Dit had ik graag nog willen veranderen, maar ik heb daar helaas geen tijd meer voor gehad.
 
 
   ### Bevinding 2:
-  Als ik tijd heb states op de ledenmate
+  Als ik tijd heb states op de ledenmaten erop zetten.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Ik heb een hover en een focus state op de ledenmate gezet, zodat het beter duidelijk wordt dat je erop kan klikken. Ook werkt de focus voor mensen die alleen een toetsenbord gebruiken.
 
 
   ### Bevinding 3:
   Kleuren in mijn root zetten.
+
+  #### oplossing:
+  Ik moest nog kleuren in mijn root zetten. Dit ging gelukkig makkelijk.
 
 
   ### Bevinding 4:
   Als ik tijd heb mijn selectoren in volgorde zetten.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Hier heb ik helaas geen tijd meer voor gehad.
 
 
   ### Bevinding 5:
   Mijn bronnen in mijn readme zetten.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Ik moest mijn gebruikte bronnen nog even in mijn readme zetten. Die kun je hier onderaan vinden:).
 
 
   ### Bevinding 6:
   Mijn aardappel nog werkend maken.  
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  De laatste fase van mijn aardappel (die met toystor) werkte nog niet helemaal. Uiteindelijk was het niet zo moeilijk in javascript. Maar het duurde wel even voordat het echt werkte.
 
 </details>
-
-
 
 
 ## Reflectie
@@ -167,17 +195,24 @@ Blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/image" width="375px" alt="final ontwerp">
-
+ <img src="readme-images/scherm1.jpeg" width="375px" alt="Eerste scherm met interacties het final ontwerp">
+  
+  <img src="readme-images/scherm2.jpeg" width="375px" alt="Tweede scherm met interactie van het final ontwerp">
+  
+  <img src="readme-images/scherm3.jpeg" width="375px" alt="Derde scherm met interactie van het final ontwerp">
+  
+  <img src="readme-images/scherm4.jpeg" width="375px" alt="Vierde scherm van het final ontwerp">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
+  Code is niet mijn sterkste vakgebied. Ik ben vooral blij als ik het vak haal. Desondanks dat het stroef ging heb ik veel geleerd. Code moet je gewoon om de zoveel tijd doen om het niet te vergeten en om er beter in te worden moet je het zelfs vaker doen dan dat. Met dit vak heb ik zeker weten mijn code kennis van vorige twee jaar opgehaald en ben ik er beter in geworden. Ik heb namelijk vooral beter leren javascripten. Iets wat ik eerder nog maar met één vak op school had gedaan. Iets wat dus ook een beetje uit mijn systeem was geraakt. Ik ben blij dat ik wel heel veel hulp kreeg van klasgenoten en mijn docent Sanne. Maar ik vind het ook goed van mezelf dat ik de code die ik van andere heb gekregen, snap.
+
+  Wat wel in de laatste dagen van de afronding van het project kwam was de kleine tijdlijn die ik voorheen nog niet helemaal had uitgedacht. Bij mijn schetsen en idee wist ik nog niet zeker hoe ik de tijdlijn in mijn project zou moeten werven. Toen ik eenmaal Mr. Aardappelhoofd op mijn scherm had staan, kreeg ik daar een wat beter idee over. Ik ben blij dat ik dat idee nog op het laatste moment erin heb kunnen krijgen met behulp van de docent en klasgenoten.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Wat vond ik niet lastig... Het moeilijkste was voor mij zeker het javascripten. Hier heb ik ook het minste ervaring in. Maar dat had ik ook wel verwacht. Vorig jaar vond ik dat ook heel lastig met een vak waar ik ook voor heb gejavascript. Dat was dus iets wat ik nog lastig vond maar wat ik uiteindelijk nog wel wat van heb gedaan. Helaas is mijn project niet helemaal zo gegaan zoals ik het helemaal wilde. Ik ben in tijdsnood gekomen omdat ik een aantal dingen naarmate het project zich vorderde opnieuw heb moeten doen. Hierdoor heb ik aan het einde niet veel meer tijd gehad voor semantische dingen zowel code als uitstraling van de pagina en extra's. Dit vind ik erg jammer en had dat graag nog beter willen doen als ik iets meer tijd had gehad.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
