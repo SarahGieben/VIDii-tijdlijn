@@ -84,6 +84,14 @@ function transform() {
     }
     else if (welkePotato == "plastic") {
         welkePotato = "toystory";
+
+        allButtons.forEach((button) => {
+            button.classList.add("none")
+        })
+        const gaPraten = document.querySelector("article:nth-of-type(2) section");
+
+        gaPraten.classList.add('praten');
+
     }
 
     // potato transformeert
@@ -96,7 +104,7 @@ function transform() {
         aardappelKnop.classList.remove("plastic");
         aardappelKnop.classList.add("toystory");
 
-        var allButtons = document.querySelectorAll("section > button");
+        
 
     }
 
@@ -111,19 +119,29 @@ function transform() {
 
     //  info weg
     const gaPraten = document.querySelector("article:nth-of-type(2) section");
-    gaPraten.classList.remove('praten');
+
+    if(welkePotato == "aardappel"){
+        gaPraten.classList.remove('praten');
+
+    }else if(welkePotato == "plastic"){
+        gaPraten.classList.remove('praten');
+
+    }
 
     // info update
     const deH2 = document.querySelector("article:nth-of-type(2) section h2");
     const deP = document.querySelector("article:nth-of-type(2) section p");
+    const deP2 = document.querySelector("article:nth-of-type(2) section p:nth-of-type(2)");
 
     if (welkePotato == "plastic") {
-        deH2.innerHTML = "plastic";
-        deP.innerHTML = "in delft moest ik kuststof zeggen";
+        deH2.innerHTML = "1960";
+        deP.innerHTML = "Ik ben van plastic geworden vanwege veiligheid en gezondheid. Maar ik ben bij de iets jongere jeugd pas bekend geworden toen ik in een film mocht spelen.";
+        deP2.innerHTML = "klik op mijn lichaam om mij te zien uit een film!";
     }
     else if (welkePotato == "toystory") {
-        deH2.innerHTML = "vette commercie";
-        deP.innerHTML = "weer retro in de verkoop";
+        deH2.innerHTML = "1995";
+        deP.innerHTML = "Ja nu herken je me wel hè. Dat klopt de film heet Toystory waar ik in speelde. Na het succes van de eerste film uit 1995, kwamen er nog 3 andere films uit.";
+        deP2.innerHTML = "";
     }
 
     

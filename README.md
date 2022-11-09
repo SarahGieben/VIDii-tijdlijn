@@ -115,7 +115,7 @@ Blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Als ik nog tijd heb de afbeeldingen overtrekken met illustrator.
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
@@ -123,7 +123,7 @@ Blauw
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Als ik tijd heb states op de ledenmate
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
@@ -131,7 +131,30 @@ Blauw
 
 
   ### Bevinding 3:
-  ...
+  Kleuren in mijn root zetten.
+
+
+  ### Bevinding 4:
+  Als ik tijd heb mijn selectoren in volgorde zetten.
+
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+
+
+
+  ### Bevinding 5:
+  Mijn bronnen in mijn readme zetten.
+
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+
+
+
+  ### Bevinding 6:
+  Mijn aardappel nog werkend maken.  
+
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 </details>
 
@@ -144,7 +167,7 @@ Blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/image" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -162,15 +185,52 @@ Blauw
 
 
 
-## Bronnenlijst
+## Bronnenlijst voor code
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+Ik heb niet perse iets echt gekopieerd en geplakt van het internet, naar mijn css textbubbel. De rest is gewoon opgezocht om op te zoeken hoe iets moet.
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/:focus#focus_outline_none
+Hier heb ik opgezocht hoe je aan een focus style kan geven.
+
+2. https://developer.mozilla.org/en-US/docs/Web/API/Element/removeAttribute
+Hier heb ik opgezocht hoe je in js een attribute kan verwijderen.
+
+3. https://codepen.io/shooft/pen/bGKeeZL?editors=1100
+4. https://codepen.io/shooft/pen/NWzRQVO?editors=0100
+Deze twee heb ik door mijn gehele project gebruikt als inspiratie en als hulpmiddel voor bijvoorbeeld klikken en een plaatje veranderen.
+
+5. https://projects.verou.me/bubbly/
+Deze generator heb ik gebruikt om een text bubbel in css te genereren.
+
+6. https://www.w3schools.com/cssref/pr_background-repeat.php
+gebruikt om ervoor te zorgen dat mijn background afbeelding niet op repeat staat.
+
+## Bronnenlijst voor gebruikte info en afbeeldingen
+
+1. https://freepngimg.com/png/836-potato-png-images
+Hier heb ik de afbeelding van de eerste aardappel vandaan. Een gewone normale aardappel dus.
+
+2. http://mrpotatohead.play.scriptmania.com/mrspotatohead/
+Hier heb ik de ledenmate en accessoires voor de aardappel vandaan. Deze kun je dus erop en eraf doen.
+
+3. https://www.youtube.com/watch?v=7XWRUcRJbwk&ab_channel=DellFanProductions
+Door deze video en website heb ik informatie gehaald over potatohead zelf
+
+
+4. https://toystorymovies.fandom.com/wiki/Mr._Potato_Head
+Hier heb ik Meneer Potatohead van Toystory vandaan.
+
+5. https://www.fontsplace.com/klepto-itc-tt-free-font-download.html
+Hier heb ik het font vandaan.
+
+6. https://news.disney.com/pixar-video-backgrounds-available
+Hier heb ik de achtergrond vandaan.
+
 
 </details>
+
+
+
+

@@ -1,6 +1,10 @@
 /*************/
 /*    CSS    */
 /*************/
+/* button:not([disabled]) {
+  cursor:pointer;
+} */
+
 :root{
   --aardappel-width: 35vmin;
 }
@@ -35,22 +39,31 @@ article > button img{
   z-index: -1;
   width: var(--aardappel-width);
   aspect-ratio:2/3;
-  -webkit-filter: drop-shadow(10px 10px 10px #666666);
-  filter: drop-shadow(10px 10px 10px #666666);
+  -webkit-filter: drop-shadow(10px 10px 10px #343434);
+  filter: drop-shadow(10px 10px 10px #343434);
 
 }
 
-article img {
+/* button accessoires */
+article:first-of-type section img {
   width: 25vmin;
+  -webkit-filter: drop-shadow(20px 20px 20px #343434);
+  filter: drop-shadow(10px 10px 10px #343434);
+}
+
+article:first-of-type section button:hover, article:first-of-type section button:focus{
+  -webkit-filter: drop-shadow(10px 10px 10px #ad3b3b);
+  filter: drop-shadow(10px 10px 10px 100px #ad3b3b);
+  outline: none;
 }
 
 
 
 
 
-/**************************/
-/*   Verplaatsen Meneer   */
-/**************************/
+/*************************/
+/*      Verplaatsen      */
+/*************************/
 
 /* Hoed van meneer */
 section:first-of-type button:first-of-type {
@@ -205,7 +218,7 @@ article > button.toystory img {
   
 }
 
-article:first-of-type section > button.toystory {
+article:first-of-type section > button.none {
   display: none;
 }
 
