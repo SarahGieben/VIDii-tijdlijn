@@ -1,45 +1,305 @@
 /*************/
-/* CSS RESET */
+/*    CSS    */
 /*************/
-
-/* naar een idee van Jen Simmons */
-*, *::after, *::before {
-  box-sizing:border-box;  
+:root{
+  --aardappel-width: 35vmin;
 }
 
-body {
-  margin:0;
+@font-face {
+  font-family: 'Klepto';
+  src: url(/Font/klepto_itc_tt.ttf);
 }
 
-button:not([disabled]) {
-  cursor:pointer;
+html{
+  background-image: url(../images/toystorybg.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+article:first-of-type {
+	margin:0;
+	height:100vh;
+	display:grid;
+	place-content:center;
+}
+
+/* potato */
+article > button img{
+  position: relative;
+  z-index: -1;
+  width: var(--aardappel-width);
+  aspect-ratio:2/3;
+  -webkit-filter: drop-shadow(10px 10px 10px #666666);
+  filter: drop-shadow(10px 10px 10px #666666);
+
+}
+
+article img {
+  width: 25vmin;
 }
 
 
 
 
 
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
+/**************************/
+/*   Verplaatsen Meneer   */
+/**************************/
 
-:root {
-  --color-headings:crimson
+/* Hoed van meneer */
+section:first-of-type button:first-of-type {
+	position:absolute;
+	left:50%;
+	top:17%;
+	aspect-ratio:2/1;
+	transform:translatex(-30vw) translateY(5vh) rotate(30deg);
+	transition:1s;
+}
+
+section:first-of-type button:first-of-type.op {
+	transform:none;
+  transform: translateX(-50%);
+}
+
+
+/* Ogen van meneer */
+section:first-of-type button:nth-of-type(2) {
+	position:absolute;
+  left: 50%;
+	top:35%;
+	aspect-ratio:2/1;
+	transform:translatex(-40vw) translateY(1vh) rotate(-10deg);
+	transition:1s;
+}
+
+section button:nth-of-type(2).op {
+	transform:none;
+  transform: translateX(-50%);
+}
+
+/* Snor van meneer */
+section:first-of-type button:nth-of-type(3) {
+	position:absolute;
+  left: 50%;
+	top:43%;
+	aspect-ratio:2/1;
+	transform:translatex(-25vw) translateY(7vh) rotate(10deg);
+	transition:1s;
+}
+
+section button:nth-of-type(3).op {
+	transform:none;
+  transform: translateX(-50%);
+}
+
+/* Armen van meneer */
+section:first-of-type button:nth-of-type(4){
+	position:absolute;
+  left: 50%;
+	top:40%;
+	aspect-ratio:2/1;
+	transform:translatex(-40vw) translateY(17vh) rotate(5deg);
+	transition:1s;
+}
+
+section button:nth-of-type(4).op {
+	transform:none;
+  transform: translateX(-50%) scale(2.5);
+}
+
+/* Schoenen van meneer */
+section:first-of-type button:nth-of-type(5) {
+	position:absolute;
+	left: 50%;
+	top:72%;
+	aspect-ratio:2/1;
+	transform:translatex(-35vw) translateY(7vh) rotate(-5deg);
+	transition:1s;
+}
+
+section button:nth-of-type(5).op {
+	transform:none;
+  transform:translateX(-50%) scale(1.2);
+}
+
+
+
+
+/**************************/
+/*      Tekst bubbel      */
+/**************************/
+
+article:nth-of-type(2) section{
+	position: relative;
+	background: beige;
+	border-radius: .4em;
+  display: none;
+  width: 25em;
+  height: 12em;
+  padding: 1em;
+}
+
+article:nth-of-type(2) section::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 0.844em solid transparent;
+	border-right-color: beige;
+	border-left: 0;
+	border-bottom: 0;
+	margin-top: -0.422em;
+	margin-left: -0.844em;
+}
+
+article:nth-of-type(2) section.praten {
+  display: block;
+}
+
+article:nth-of-type(2) section {
+  position: absolute;
+  right: 5%;
+  top:10%;
+}
+
+p {
+  font-family: 'Klepto';
+  padding-top: -10em;
+}
+
+h2{
+  font-family: 'Klepto';
+}
+
+
+
+
+/**************************/
+/*        Plastic        */
+/**************************/
+
+article > button.plastic img {
+  content: url("../images/potatoplastic.png");
+  
+}
+
+
+
+
+/***************************/
+/*        Toystory         */
+/***************************/
+
+article > button.toystory img {
+  content: url("../images/potatohead.webp");
+  width: 90vmin;
+  aspect-ratio: inherit;
+  
+}
+
+article:first-of-type section > button.toystory {
+  display: none;
 }
 
 
 
 
 
-/********************/
-/* ALGEMENE STYLING */
-/********************/
 
-h1 {
-  color:var(--color-headings);
+
+
+
+/* article.plastic {
+	
+
+} */
+
+/**************************/
+/*   Verplaatsen Meneer   */
+/**************************/
+
+/* Hoed van meneer
+section:first-of-type button:first-of-type {
+	position:absolute;
+	left: 17%;
+	width:50%;
+	top:-10%;
+	aspect-ratio:2/1;
+	transform:translatex(-30vw) translateY(-10vh) rotate(30deg);
+	transition:1s;
+}
+
+section:first-of-type button:first-of-type.hoedOpM {
+	transform:none;
 }
 
 
-/* ... */
+/* Ogen van meneer */
+/* section:first-of-type button:nth-of-type(2) {
+	position:absolute;
+	left: 16%;
+	width:50%;
+	top:12%;
+	aspect-ratio:2/1;
+	transform:translatex(-40vw) translateY(9vh) rotate(-10deg);
+	transition:1s;
+} */
 
+/* section button:nth-of-type(2).ogenOpM {
+	transform:none;
+} */
 
+/* Snor van meneer */
+/* section:first-of-type button:nth-of-type(3) {
+	position:absolute;
+	left: 16%;
+	width:50%;
+	top:30%;
+	aspect-ratio:2/1;
+	transform:translatex(-20vw) translateY(7vh) rotate(10deg);
+	transition:1s;
+} */
+/* 
+section button:nth-of-type(3).snorOpM {
+	transform:none;
+} */
+
+/* Armen van meneer */
+/* section:first-of-type button:nth-of-type(4){
+	position:absolute;
+	left: 5%;
+	width:50%;
+	top:30%;
+	aspect-ratio:2/1;
+	transform:translatex(-27vw) translateY(20vh) rotate(5deg);
+	transition:1s;
+} */
+/* 
+section button:nth-of-type(4).armenOpM {
+	transform:none;
+  transform: scale(2.5);
+} */
+
+/* Schoenen van meneer */
+/* section:first-of-type button:nth-of-type(5) {
+	position:absolute;
+	left: 16%;
+	width:50%;
+	top:97%;
+	aspect-ratio:2/1;
+	transform:translatex(-35vw) translateY(7vh) rotate(-5deg);
+	transition:1s;
+} */
+
+/* section button:nth-of-type(5).schoenenOpM {
+	transform:none;
+  transform:scale(1.2)
+} */ 
