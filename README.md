@@ -26,8 +26,8 @@ Blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/pacman-schets.jpeg" width="375px" alt="Pacman schets">
-  <img src="readme-images/spiderman-schets.jpeg" width="375px" alt="Spiderman schets">
+  <img src="readme-images/Pacman-schets.jpeg" width="375px" alt="Pacman schets">
+  <img src="readme-images/Spiderman-schets.jpeg" width="375px" alt="Spiderman schets">
   <img src="readme-images/Aardappelhoofd-schets.jpeg" width="375px" alt="Aardappelhoofd schets">
 
   ### Mijn idee en kenmerken van mijn karakter:
@@ -199,9 +199,9 @@ Blauw
   
   <img src="readme-images/scherm2.jpeg" width="375px" alt="Tweede scherm met interactie van het final ontwerp">
   
-  <img src="readme-images/scherm3.jpeg" width="375px" alt="Derde scherm met interactie van het final ontwerp">
+  <img src="readme-images/Scherm3.jpeg" width="375px" alt="Derde scherm met interactie van het final ontwerp">
   
-  <img src="readme-images/scherm4.jpeg" width="375px" alt="Vierde scherm van het final ontwerp">
+  <img src="readme-images/Scherm4.jpeg" width="375px" alt="Vierde scherm van het final ontwerp">
 
   ### Dit ging goed/Heb ik geleerd: 
   Code is niet mijn sterkste vakgebied. Ik ben vooral blij als ik het vak haal. Desondanks dat het stroef ging heb ik veel geleerd. Code moet je gewoon om de zoveel tijd doen om het niet te vergeten en om er beter in te worden moet je het zelfs vaker doen dan dat. Met dit vak heb ik zeker weten mijn code kennis van vorige twee jaar opgehaald en ben ik er beter in geworden. Ik heb namelijk vooral beter leren javascripten. Iets wat ik eerder nog maar met één vak op school had gedaan. Iets wat dus ook een beetje uit mijn systeem was geraakt. Ik ben blij dat ik wel heel veel hulp kreeg van klasgenoten en mijn docent Sanne. Maar ik vind het ook goed van mezelf dat ik de code die ik van andere heb gekregen, snap.
